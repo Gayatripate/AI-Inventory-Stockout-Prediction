@@ -1,5 +1,13 @@
-# Local datasets and generated files
+# Large datasets and generated files
 data/raw/
 data/processed/
 data/inventory.db
 models/*.pkl
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+myenv/
+.env
