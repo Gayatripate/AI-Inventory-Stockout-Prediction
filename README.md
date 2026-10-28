@@ -90,4 +90,4 @@ Ensure the required dataset is available before training.
 
 ## Author
 Gayatri Pate
-Created as a machine learning and data analytics portfolio project.
+
