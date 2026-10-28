@@ -1,13 +1,8 @@
-# Large datasets and generated files
-data/raw/
-data/processed/
-data/inventory.db
-models/*.pkl
 
-# Python temporary files
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
 venv/
 myenv/
 .env
+.vscode/
