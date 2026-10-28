@@ -1,0 +1,5 @@
+# Local datasets and generated files
+data/raw/
+data/processed/
+data/inventory.db
+models/*.pkl
