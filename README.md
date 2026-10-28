@@ -78,5 +78,16 @@ Current stock levels and lead times are simulated assumptions, not live inventor
 - Refine inventory risk and reorder recommendations.
 - Add real inventory and supplier lead-time data.
 
+## Model File
+
+The trained model file (`demand_model.pkl`) is not included in this repository because of its file size. To run the prediction features, train the model locally using the training script:
+
+```bash
+python src/train_model.py
+```
+
+Ensure the required dataset is available before training.
+
 ## Author
+Gayatri Pate
 Created as a machine learning and data analytics portfolio project.
